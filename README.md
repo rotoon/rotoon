@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I’m Rotoon 👋
 
-<!--
-**rotoon/rotoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer (React/Next.js + TypeScript) based in Chiang Mai, Thailand.  
+I enjoy debugging tricky issues, finding root causes, and shipping reliable, fast UI.
 
-Here are some ideas to get you started:
+## Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,vercel&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zustand-111111?style=for-the-badge" />
+</p>
+
+## What I’m good at
+- Root-cause analysis & debugging (production issues, edge cases)
+- Building with **React / Next.js (App Router)** and **TypeScript**
+- UI + DX: TailwindCSS, clean component patterns
+- Data fetching & state: **TanStack Query (React Query)**, **Zustand**
+
+## Featured projects
+### CM-EVENTS (HypeCNX)
+A Chiang Mai events & lifestyle platform.  
+**Stack:** Next.js, TypeScript, TailwindCSS, TanStack Query, Maps (Leaflet), Node/Express, PostgreSQL  
+Repo: https://github.com/rotoon/CM-EVENTS  
+Live: https://hypecnx.com/
+
+### Astro Wedding
+A wedding site built with Astro.  
+**Stack:** Astro, modern frontend tooling, static-first performance  
+Repo: https://github.com/rotoon/astro-wedding
+Live: https://www.ststarttogether.com/
+
+
+## I’m looking for
+Remote-friendly roles in:
+- Frontend Engineer (React/Next.js)
+- Product Engineer (frontend-heavy)
+- Frontend Platform / Performance / Reliability (bonus)
+
+## Links
+- Website: https://rotoon.dev
+- GitHub: https://github.com/rotoon
