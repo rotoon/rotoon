@@ -14,7 +14,6 @@ I enjoy debugging tricky issues, finding root causes, and shipping reliable, fas
 </p>
 
 ## What I’m good at
-- Root-cause analysis & debugging (production issues, edge cases)
 - Building with **React / Next.js (App Router)** and **TypeScript**
 - UI + DX: TailwindCSS, clean component patterns
 - Data fetching & state: **TanStack Query (React Query)**, **Zustand**
