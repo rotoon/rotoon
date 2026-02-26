@@ -1,11 +1,10 @@
 # Hi, I’m Rotoon 👋
 
 Frontend Engineer (React/Next.js + TypeScript) based in Chiang Mai, Thailand.  
-I enjoy debugging tricky issues, finding root causes, and shipping reliable, fast UI.
 
 ## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,firebase,supabase,vercel&theme=dark" />
 </p>
 
 <p>
@@ -14,9 +13,11 @@ I enjoy debugging tricky issues, finding root causes, and shipping reliable, fas
 </p>
 
 ## What I’m good at
+- Root-cause analysis & debugging (production issues, edge cases)
 - Building with **React / Next.js (App Router)** and **TypeScript**
 - UI + DX: TailwindCSS, clean component patterns
 - Data fetching & state: **TanStack Query (React Query)**, **Zustand**
+- Backend services: **Firebase** (Auth, Firestore, Storage, Hosting, Functions), **Supabase**
 
 ## Featured projects
 ### CM-EVENTS (HypeCNX)
@@ -28,15 +29,13 @@ Live: https://hypecnx.com/
 ### Astro Wedding
 A wedding site built with Astro.  
 **Stack:** Astro, modern frontend tooling, static-first performance  
-Repo: https://github.com/rotoon/astro-wedding
+Repo: https://github.com/rotoon/astro-wedding  
 Live: https://www.ststarttogether.com/
-
 
 ## I’m looking for
 Remote-friendly roles in:
-- Frontend Engineer (React/Next.js)
-- Product Engineer (frontend-heavy)
-- Frontend Platform / Performance / Reliability (bonus)
+- **Frontend Engineer** (React/Next.js)
+- **Full-stack Engineer** (Next.js/Node js)
 
 ## Links
 - Website: https://rotoon.dev
