@@ -1,4 +1,4 @@
-# Hi, I’m Rotoon 👋
+# Hi, I’m Rotoon (Nuttapon Phompun) 👋
 
 Frontend Engineer (React/Next.js + TypeScript) based in Chiang Mai, Thailand.  
 
