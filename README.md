@@ -30,7 +30,7 @@ Live: https://hypecnx.com/
 A wedding site built with Astro.  
 **Stack:** Astro, modern frontend tooling, static-first performance  
 Repo: https://github.com/rotoon/astro-wedding  
-Live: https://www.ststarttogether.vercel.app/
+Live: https://ststarttogether.vercel.app/
 
 ## I’m looking for
 Remote-friendly roles in:
